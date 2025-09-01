@@ -25,6 +25,8 @@
  - DDNS for public facing services
  - Security stuff (figure this out)
  - Gitlab remote runner
+ - n8n automatisation layer
+ ### The list of stuff running directly in ProxMox:
  - Propper VMs for stuff
  - Propper LLM for internal use (prob need a gpu for that)
- - n8n automatisation layer
+ - Unraid
