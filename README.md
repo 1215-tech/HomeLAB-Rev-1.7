@@ -10,9 +10,9 @@
  - Jellyfin
  - QBittorrent
  - Prowler (for Jellyfin)
- - VOIP since discord asks for IDs now (Matrix based server; Likely Synapse -> Client; depends what support screen sharing currently Element and Cinny are the top contenders)
+ - ~~VOIP since discord asks for IDs now (TS)~~
  - Hommar/Dashdot or both (need to properly set up the thing lol)
- - Some kind of remote access (currently tailscale)
+ - ~~Some kind of remote access (Tailscale for now, Netbird in testing)~~
  - UptimeKuma
  - Navidrome and everything to do with that. Look into spotify API integration
  - IQAS website
@@ -22,7 +22,7 @@
  - Telegram bot for convinience
  - Some kind of backup solution (need storage for that, and that come only after the rev2.o of homelab prob)
  - Various game servers
- - DDNS for public facing services
+ - DDNS for public facing services (Grey IP address, shelved for now)
  - Bitwarden
  - Security stuff (figure this out)
  - Gitlab remote runner
