@@ -10,12 +10,13 @@
  - ~~Jellyfin~~
  - ~~QBittorrent~~
  - ~~Prowler (for Jellyfin)~~
- - ~~VOIP since discord asks for IDs now (TS)~~
+ - ~~VOIP since discord asks for IDs now~~ (TS)
  - ~~Hommar/Dashdot or both (need to properly set up the thing lol)~~
    - Configure properly
- - ~~Some kind of remote access (Tailscale for now, Netbird in testing)~~
+ - ~~Some kind of remote access~~ (Tailscale for now, Netbird in testing)
  - ~~UptimeKuma~~
- - ~~Navidrome and everything to do with that. Look into spotify API integration~~
+ - ~~Navidrome and everything to do with that~~
+ - Look into spotify API n8n -> spotify integration
  - IQAS website
  - 11Customs website (if we figure out how to selfhost payments)
  - Internal knowlege base
