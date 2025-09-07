@@ -12,7 +12,7 @@
  - ~~Prowler (for Jellyfin)~~
  - ~~VOIP since discord asks for IDs now (TS)~~
  - ~~Hommar/Dashdot or both (need to properly set up the thing lol)~~
- - - Configure properly
+   - Configure properly
  - ~~Some kind of remote access (Tailscale for now, Netbird in testing)~~
  - ~~UptimeKuma~~
  - ~~Navidrome and everything to do with that. Look into spotify API integration~~
@@ -28,6 +28,7 @@
  - Security stuff (figure this out)
  - Gitlab remote runner
  - ~~n8n automatisation layer~~
+   - Configure properly
  ### The list of stuff running directly in ProxMox:
  - Propper VMs for stuff
  - Propper LLM for internal use (prob need a gpu for that)
