@@ -24,7 +24,7 @@
  - Telegram bot for convinience
  - Some kind of backup solution (need storage for that, and that come only after the rev2.o of homelab prob)
  - Various game servers
- - DDNS for public facing services (Grey IP address, shelved for now)
+ - ~~DDNS for public facing services~~ (Grey IP address, shelved for now)
  - Bitwarden
  - Security stuff (figure this out)
  - Gitlab remote runner
